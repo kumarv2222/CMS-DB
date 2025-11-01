@@ -1,0 +1,1 @@
+define('DB_NAME', 'cms_db1'); 
